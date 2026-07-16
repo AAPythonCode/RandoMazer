@@ -33,6 +33,7 @@ The ball is placed inside the maze at the top: the entrance. Underneath the maze
 > The joystick provides its position with values greater than 4000! Therefore, we had to map them to values from 0-180 to control the servos directly.
 
 <img width="720" height="540" alt="img_2119_720" src="https://github.com/user-attachments/assets/3fac0f5c-ad36-4586-8813-f5fd8206ae28" />
+
 The joystick controls the servos which are stacked on top of each other to create the x and y maze control.
 
 # Bill Of Materials
