@@ -38,14 +38,14 @@ The joystick controls the servos which are stacked on top of each other to creat
 # Bill Of Materials
 | Name | Price | Quantity | Link |
 |------|-------|----------|------|
-SG90 servos | 
-MG996R servos |
+SG90 servos | $9.99 | 1 (6pcs option) | [Link](https://www.amazon.com/WWZMDiB-SG90-Control-Servos-Arduino/dp/B0BKPL2Y21) |
+MG996R servos | $13.98 | 1 (2pcs) | [Link](https://www.amazon.com/2-Pack-MG996R-Torque-Digital-Helicopter/dp/B09JWK494C/ref=sr_1_5?s=toys-and-games&sr=1-5) |
 3D Printed Parts |
-ESP32 Dev Board |
-Perf Board |
-USB-C PD Adapter |
-M3 Screws |
-Jumper Wires |
+ESP32 Dev Board | $9.99 | 1 | [Link](https://www.amazon.com/HiLetgo-ESP-WROOM-32-Development-Microcontroller-Integrated/dp/B0718T232Z/ref=sr_1_9?sr=8-9) |
+Perf Board | $4.99 | 1 (10pcs) | [Link](https://www.amazon.com/Ferwooh-Protoboard-Breadboards-Breadboard-Electronic/dp/B0CZ6W18F6/ref=sr_1_2?sr=8-2) |
+USB-C PD Adapter | $7.90 | 1 | [Link](https://www.amazon.com/Connector-Solderless-Pluggable-Extension-Interface/dp/B08D94GZGX)
+M3 Screws | 
+Assorted Jumper Wires |
 
 
 
